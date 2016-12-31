@@ -12,3 +12,12 @@ Based on:
 export OPEN_RTOS_PATH=/path/to/esp-open-rtos
 make && make flash
 ```
+
+- I2S connection
+```
+ESP pin   - I2S signal
+----------------------
+GPIO2/TX1   - LRCK
+GPIO3/RX0   - DATA
+GPIO15      - BCLK
+```
