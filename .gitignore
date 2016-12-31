@@ -1,0 +1,7 @@
+.output
+map.txt
+include/user_config.local.h
+bin
+build
+firmware
+*.mp3
