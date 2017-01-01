@@ -21,3 +21,8 @@ GPIO2/TX1   - LRCK
 GPIO3/RX0   - DATA
 GPIO15      - BCLK
 ```
+
+## Demo: 
+![DemoImage](./demo.png)
+
+https://youtu.be/8Z-Cp0hWlhs
